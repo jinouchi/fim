@@ -1,0 +1,6 @@
+#!/bin/bash
+# Variables used by FIM script. 
+
+FILELIST="filelist"
+HASHES="hashes.txt"
+COUNTER=1
