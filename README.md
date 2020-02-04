@@ -6,7 +6,7 @@ This is in alpha testing! Please use with caution.
 
 # How to use this tool
 
-On the control system, clone this repo and run 
+On the test system, clone this repo and run 
 
 cd fim
 
@@ -16,9 +16,9 @@ chmod +x create_hashes.txt
 
 This will hash all system files from all directories listed in the create_hashes.sh file and save the file as $HASHES (hashes.txt by default). 
 
-Copy the hashes file to the test system. 
+Copy the hashes file to the control system. 
 
-On the test system, clone this repo and run
+On the control system, clone this repo and run
 
 cd fim
 
