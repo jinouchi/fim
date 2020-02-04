@@ -4,7 +4,7 @@ File integrity monitoring tool to check system file hashes from one system again
 # Disclaimer
 This is in alpha testing! Please use with caution. 
 
-# How to use this tooland the system to be tested. 
+# How to use this tool
 
 On the control system, clone this repo and run 
 
